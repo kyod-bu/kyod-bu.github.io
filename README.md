@@ -1,4 +1,4 @@
-## 卜亚风的个人博客
+## 个人博客
 用于总结自己平时工作/学习中的经验。[体验](https://kyod-bu.github.io).
 
 You can use the [editor on GitHub](https://github.com/kyod-bu/kyod-bu.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
